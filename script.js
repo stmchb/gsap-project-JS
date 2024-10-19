@@ -51,7 +51,6 @@ function cardLoading() {
     scrollTrigger: {
       trigger: "#card-container",
       scroller: "body",
-      markers: true,
       scrub: 1,
       start: "top 100%",
       end: "top -30%",
